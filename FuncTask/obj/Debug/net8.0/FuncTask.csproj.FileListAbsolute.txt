@@ -1,0 +1,14 @@
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\bin\Debug\net8.0\FuncTask.exe
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\bin\Debug\net8.0\FuncTask.deps.json
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\bin\Debug\net8.0\FuncTask.runtimeconfig.json
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\bin\Debug\net8.0\FuncTask.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\bin\Debug\net8.0\FuncTask.pdb
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\FuncTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\FuncTask.AssemblyInfoInputs.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\FuncTask.AssemblyInfo.cs
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\FuncTask.csproj.CoreCompileInputs.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\FuncTask.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\refint\FuncTask.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\FuncTask.pdb
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\FuncTask.genruntimeconfig.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\FuncTask\obj\Debug\net8.0\ref\FuncTask.dll

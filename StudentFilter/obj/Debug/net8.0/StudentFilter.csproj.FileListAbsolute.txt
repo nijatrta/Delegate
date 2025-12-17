@@ -1,0 +1,14 @@
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\bin\Debug\net8.0\StudentFilter.exe
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\bin\Debug\net8.0\StudentFilter.deps.json
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\bin\Debug\net8.0\StudentFilter.runtimeconfig.json
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\bin\Debug\net8.0\StudentFilter.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\bin\Debug\net8.0\StudentFilter.pdb
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\StudentFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\StudentFilter.AssemblyInfoInputs.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\StudentFilter.AssemblyInfo.cs
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\StudentFilter.csproj.CoreCompileInputs.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\StudentFilter.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\refint\StudentFilter.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\StudentFilter.pdb
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\StudentFilter.genruntimeconfig.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\StudentFilter\obj\Debug\net8.0\ref\StudentFilter.dll

@@ -1,0 +1,14 @@
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\bin\Debug\net8.0\DelegateTasks.exe
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\bin\Debug\net8.0\DelegateTasks.deps.json
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\bin\Debug\net8.0\DelegateTasks.runtimeconfig.json
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\bin\Debug\net8.0\DelegateTasks.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\bin\Debug\net8.0\DelegateTasks.pdb
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\DelegateTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\DelegateTasks.AssemblyInfoInputs.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\DelegateTasks.AssemblyInfo.cs
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\DelegateTasks.csproj.CoreCompileInputs.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\DelegateTasks.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\refint\DelegateTasks.dll
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\DelegateTasks.pdb
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\DelegateTasks.genruntimeconfig.cache
+C:\Users\nicat\OneDrive\Desktop\DelegateTasks\DelegateTasks\obj\Debug\net8.0\ref\DelegateTasks.dll
